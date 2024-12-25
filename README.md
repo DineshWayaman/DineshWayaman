@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mobile Application Development](https://play.google.com/store/apps/dev?id=6230833825196067565&hl=en&gl=US)
 
-- 🌱 I’m currently learning **Flutter, React Native, Laravel**
+- 🌱 I’m currently learning **Flutter, React Native, Native Android, Next JS, Laravel**
 
 - 👯 I’m looking to collaborate on [Globevik](http://globevik.com/)
 
