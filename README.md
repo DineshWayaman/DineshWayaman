@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** from **Sri 
 
 ## 📈 My GitHub Stats
 
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshWayaman&show_icons=true&theme=tokyonight&count_private=true)
-
+<!--  ![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshWayaman&show_icons=true&theme=tokyonight&count_private=true)
+ -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshWayaman&layout=compact&theme=tokyonight)
 
 ---
